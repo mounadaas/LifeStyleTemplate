@@ -1483,7 +1483,7 @@ transition: 0.3s;
 .request{
     display: flex;
     flex-wrap: wrap;
-    background-image: url(/images/discount-background1.jpg);
+    background-image: url(images/discount-background1.jpg);
 }
 .discount{
     text-align: center;
