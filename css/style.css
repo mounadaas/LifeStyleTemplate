@@ -1384,7 +1384,7 @@ color: var(--main-color);
 .fivteen{
     padding-top: 90px;
     padding-bottom: 90px;
-    background-image: url(images/stats.jpg);
+    background-image: url(../images/stats.jpg);
     background-size: cover;
     position: relative;
 }
@@ -1483,7 +1483,7 @@ transition: 0.3s;
 .request{
     display: flex;
     flex-wrap: wrap;
-    background-image: url(images/discount-background1.jpg);
+    background-image: url(../images/discount-background1.jpg);
 }
 .discount{
     text-align: center;
